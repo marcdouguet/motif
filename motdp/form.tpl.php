@@ -5,6 +5,7 @@
     <body>
         <div class="center">
             <h3>Visualisation de la dynamique des échanges</h3>
+            <p>Extension de <a href="https://github.com/oeuvres/Teinte">Teinte</a>, pack de transformation pour XML-TEI</p>
             <p>Veuillez sélectionner la pièce à visualiser :</p>
             <form method="post">
                     <select name="file">

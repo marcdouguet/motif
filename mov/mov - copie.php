@@ -1,4 +1,5 @@
 <?php
+
 $text = file_get_contents("test.txt");
 
 //$text = mb_strtolower($text);

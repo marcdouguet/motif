@@ -14,8 +14,7 @@ function get_results($file){
 function pos_convert($pos){
     $pos = preg_replace("/:[a-zA-Z]+$/", "",$pos);
     $pos = preg_replace("/[a-z]+/", "", $pos);
-    $pos = str_replace(array("KON","INT","NOM","PRP","SENT","ABR", "VERB"),array("CONJ", "EXCL", "SUB", "PREP", "PUN", "SUB", "VER"),$pos);
-    //convertit les pos d'alix en pos tt
+    $pos = str_replace(array("KON","INT","NOM","PRP","SENT","ABR", "VERB", "NAME"),array("CONJ", "EXCL", "SUB", "PREP", "PUN", "SUB", "VER", "NAM"),$pos);
     return $pos;
 }
 
