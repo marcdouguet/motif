@@ -1,9 +1,10 @@
 .error{
-    background-color: red;
+    background-color: #EEEEEE;
 }
-
+form{margin:10px 0;}
 table, tr, td{
     border:1px solid black;
     border-collapse: collapse;
     padding: 3px;
 }
+tr, td{max-height: 1.1em !important;}

@@ -23,17 +23,19 @@ while ($a < $count) {
         
         if ($pos_al != $pos_tt) {
             $error = "class = 'error'";
+            $error_type = "Étiquetage";
             $tag_div++;
+            $context = get_context($al, $a);
         } else {
-            $error = "";
+            $error = $error_type = $context = "";
         }
-        echo "<tr $error><td>" . $al[$a][0] . "</td><td>" . $al[$a][2] . "</td><td>" . $tt[$t][1] . "</td><td>" . $tt[$t][0] . "</td></tr>";
+        echo "<tr $error><td>" . $al[$a][0] . "</td><td>" . $al[$a][2] . "</td><td>" . $tt[$t][1] . "</td><td>" . $tt[$t][0] . "</td><td>$context</td><td>$error_type</td></tr>";
         $a++;
         $t++;
         $i++;
     } elseif (strlen($al[$a][0]) > strlen($tt[$t][0])) {
         $tok_div++;
-        echo "<tr class='error'><td>" . $al[$a][0] . "</td><td>" . $al[$a][2] . "</td><td>" . $tt[$t][1] . "</td><td>" . $tt[$t][0] . "</td></tr>";
+        echo "<tr class='error'><td>" . $al[$a][0] . "</td><td>" . $al[$a][2] . "</td><td>" . $tt[$t][1] . "</td><td>" . $tt[$t][0] . "</td><td></td><td>Tokenisation</td></tr>";
 
         //al contient plusieurs token de tt : on saute les tokens de tt jusqu'au prochain token commun
         $a++;
@@ -46,17 +48,19 @@ while ($a < $count) {
                 
                 if ($pos_al != $pos_tt) {
                     $error = "class = 'error'";
+                    $error_type = "Étiquetage";
+                    $context = get_context($al, $a);
                     $tag_div++;
                 } else {
-                    $error = "";
+                    $error = $error_type = $context = "";
                 }
-                echo "<tr $error><td>" . $al[$a][0] . "</td><td>" . $al[$a][2] . "</td><td>" . $tt[$t][1] . "</td><td>" . $tt[$t][0] . "</td></tr>";
+                echo "<tr $error><td>" . $al[$a][0] . "</td><td>" . $al[$a][2] . "</td><td>" . $tt[$t][1] . "</td><td>" . $tt[$t][0] . "</td><td>$context</td><td>$error_type</td></tr>";
                 $a++;
                 $t++;
                 $i++;
                 break;
             } else {
-                echo "<tr class='error'><td></td><td></td><td>" . $tt[$t][1] . "</td><td>" . $tt[$t][0] . "</td></tr>";
+                echo "<tr class='error'><td></td><td></td><td>" . $tt[$t][1] . "</td><td>" . $tt[$t][0] . "</td><td></td><td></td></tr>";
                 $t++;
                 continue;
             }
