@@ -21,17 +21,19 @@ tr, td{
     display: table-cell;
     }
 body{
-    width: 1350px;
+    width: 1400px;
     margin: auto;
     }
 textarea{
+    display: block;
     height: 500px;
     width:450px;
     margin-right: 20px;
     }
 select{
-    display: block;
+    display: inline;
     }
 table{
     margin-top: 20px;
     }
+label{display: inline;}

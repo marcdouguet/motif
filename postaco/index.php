@@ -21,10 +21,10 @@ if(isset($_POST["tt"]) && isset($_POST["al"])){
             <thead>
                 <tr>
                     <td>N°</td>
-                    <td>Token <?php echo $_POST["tagger1"];?></td>
-                    <td>Catégorie <?php echo $_POST["tagger1"];?></td>
-                    <td>Catégorie <?php echo $_POST["tagger2"];?></td>
-                    <td>Token <?php echo $_POST["tagger2"];?></td>
+                    <td>Token A (<?php echo $_POST["tagger1"];?>)</td>
+                    <td>Catégorie A (<?php echo $_POST["tagger1"];?>)</td>
+                    <td>Catégorie B (<?php echo $_POST["tagger2"];?>)</td>
+                    <td>Token B (<?php echo $_POST["tagger2"];?>)</td>
                     <td>Contexte</td>
                     <td>Divergence</td>
                 </tr>
@@ -45,6 +45,7 @@ if(isset($_POST["tt"]) && isset($_POST["al"])){
         <form method="post">
             <div class="form">
                 <div class="input">
+                    <label>Étiqueteur A :</label>
                     <select name="tagger1">
                         <option value="Alix" selected>Alix</option>
                         <option value="Treetagger">Treetagger</option>
@@ -52,6 +53,7 @@ if(isset($_POST["tt"]) && isset($_POST["al"])){
                     <textarea name="al"><?php echo file_get_contents("al.txt");?></textarea>
                 </div>
                 <div class="input">
+                    <label>Étiqueteur B :</label>
                     <select name="tagger2">
                         <option value="Alix">Alix</option>
                         <option value="Treetagger" selected>Treetagger</option>
