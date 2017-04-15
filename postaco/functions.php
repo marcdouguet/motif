@@ -7,7 +7,10 @@ function get_results($file) {
     $text = explode("\n", $file);
     $array = array();
     foreach ($text as $line) {
-        $array[] = explode("\t", $line);
+        $line = explode("\t", $line);
+        if(count($line)>2){
+            $array[] = $line;
+        }
     }
     return $array;
 }

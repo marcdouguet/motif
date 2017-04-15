@@ -69,4 +69,7 @@ while ($a < $count_al and $t < $count_tt) {
         $t++;
     }
 }
+
+//col de droite : textfield sur lemme, textfield avec autosuggest sur pos, sauver les résultats
+//étiquetter de la tei ? 
 ?>
