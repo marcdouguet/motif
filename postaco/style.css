@@ -1,10 +1,37 @@
 .error{
     background-color: #EEEEEE;
 }
-form{margin:10px 0;}
+form{
+    margin:10px 0;
+    width: 100%;
+    }
 table, tr, td{
     border:1px solid black;
     border-collapse: collapse;
     padding: 3px;
 }
-tr, td{max-height: 1.1em !important;}
+tr, td{
+    max-height: 1.1em !important;
+    }
+.form{
+    display: table-row;
+    margin: auto;
+    }
+.input{
+    display: table-cell;
+    }
+body{
+    width: 1350px;
+    margin: auto;
+    }
+textarea{
+    height: 500px;
+    width:450px;
+    margin-right: 20px;
+    }
+select{
+    display: block;
+    }
+table{
+    margin-top: 20px;
+    }

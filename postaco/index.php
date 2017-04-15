@@ -10,14 +10,9 @@
         <script type="text/javascript" src="js/main.js"></script>
     </head>
     <body>
-        <form method="post">
-            Alix : <input type="file" name="al"/>
-            Treetagger : <input type="file" name="tt"/>
-            <input type="submit">
-        </form>
+
 
 <?php
-//part of speech tagger comparator
 if(isset($_POST["tt"]) && isset($_POST["al"])){
     $tt = $_POST["tt"];
     $al = $_POST["al"];
@@ -25,10 +20,11 @@ if(isset($_POST["tt"]) && isset($_POST["al"])){
         <div><table id="results">
             <thead>
                 <tr>
-                    <td>Token Alix</td>
-                    <td>Catégorie Alix</td>
-                    <td>Catégorie Treetagger</td>
-                    <td>Token Treetagger</td>
+                    <td>N°</td>
+                    <td>Token <?php echo $_POST["tagger1"];?></td>
+                    <td>Catégorie <?php echo $_POST["tagger1"];?></td>
+                    <td>Catégorie <?php echo $_POST["tagger2"];?></td>
+                    <td>Token <?php echo $_POST["tagger2"];?></td>
                     <td>Contexte</td>
                     <td>Divergence</td>
                 </tr>
@@ -36,16 +32,35 @@ if(isset($_POST["tt"]) && isset($_POST["al"])){
             <tbody>
 <?php
     include("postaco.php");
-   
 ?>        
                 
             </tbody>
         </table>
             </div>
         <div>
-        <p><?php echo $tok_div; ?> divergences de tokenisation (<?php echo round(($tok_div/$count_al)*100, 2);?>%)</p>
-        <p><?php echo $tag_div; ?> divergences d'étiquetage (<?php echo round(($tag_div/$count_al)*100, 2);?>%)</p>
+        <p><?php echo $tok_div; ?> divergences de tokenisation (<?php echo round(($tok_div/$i)*100, 2);?>%)</p>
+        <p><?php echo $tag_div; ?> divergences d'étiquetage (<?php echo round(($tag_div/$i)*100, 2);?>%)</p>
         </div>
-        <?php  }?>
+        <?php  }else{?>
+        <form method="post">
+            <div class="form">
+                <div class="input">
+                    <select name="tagger1">
+                        <option value="Alix" selected>Alix</option>
+                        <option value="Treetagger">Treetagger</option>
+                    </select>
+                    <textarea name="al"><?php echo file_get_contents("al.txt");?></textarea>
+                </div>
+                <div class="input">
+                    <select name="tagger2">
+                        <option value="Alix">Alix</option>
+                        <option value="Treetagger" selected>Treetagger</option>
+                    </select>
+                    <textarea name="tt"><?php echo file_get_contents("tt.txt");?></textarea>
+                </div>   
+            </div>
+            <input type="submit">
+        </form>
+        <?php } ?>
     </body>
 </html>
