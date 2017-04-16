@@ -21,11 +21,11 @@ if(isset($_POST["tt"]) && isset($_POST["al"])){
             <thead>
                 <tr>
                     <td>N°</td>
+                    <td>Contexte</td>
                     <td>Token A (<?php echo $_POST["tagger1"];?>)</td>
                     <td>Catégorie A (<?php echo $_POST["tagger1"];?>)</td>
                     <td>Catégorie B (<?php echo $_POST["tagger2"];?>)</td>
                     <td>Token B (<?php echo $_POST["tagger2"];?>)</td>
-                    <td>Contexte</td>
                     <td>Divergence</td>
                 </tr>
             </thead>

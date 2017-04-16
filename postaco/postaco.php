@@ -70,6 +70,6 @@ while ($a < $count_al and $t < $count_tt) {
     }
 }
 
-//col de droite : textfield sur lemme, textfield avec autosuggest sur pos, sauver les résultats
+//col de gauche : textfield sur lemme, textfield avec autosuggest sur pos, sauver les résultats
 //étiquetter de la tei ? 
 ?>

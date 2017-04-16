@@ -12,5 +12,5 @@ $names_lower = array_map('strtolower', $names[2]);
 $text = str_replace($names_lower,$names[2],$text);
 $text = str_replace("\n", " ", $text);//tt réagit aux \n ?
 echo $text;
-file_put_contents($file."_lower.txt", $text);
+//file_put_contents($file."_lower.txt", $text);
 ?>

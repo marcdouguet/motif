@@ -1,10 +1,9 @@
 <?php
 
-function get_results($file) {
+function get_results($text) {
 
-
-    //$text = file_get_contents($file);
-    $text = explode("\n", $file);
+    //$text = preg_replace("/\n[0-9]+/","\n",$text);//intervalles ajoutés dans la sortie web de tt
+    $text = explode("\n", $text);
     $array = array();
     foreach ($text as $line) {
         $line = explode("\t", $line);
@@ -82,7 +81,7 @@ function line($al, $tt, &$a, &$t, &$i, &$tag_div) {
     } else {
         $error = $error_type = "";
     }
-    return "<tr $error><td>$i</td><td>" . $al[$a][0] . "</td><td>" . $al[$a][AL] . "</td><td>" . $tt[$t][TT] . "</td><td>" . $tt[$t][0] . "</td><td>$context</td><td>$error_type</td></tr>";
+    return "<tr $error><td>$i</td><td>$context</td><td>" . $al[$a][0] . "</td><td>" . $al[$a][AL] . "</td><td>" . $tt[$t][TT] . "</td><td>" . $tt[$t][0] . "</td><td>$error_type</td></tr>";
 }
 
 function tok_line($al, $tt, &$a, &$t, &$i, &$tok_div) {
