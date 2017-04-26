@@ -85,9 +85,10 @@ function line($al, $tt, &$a, &$t, &$i, &$tag_div) {
 }
 
 function tok_line($al, $tt, &$a, &$t, &$i, &$tok_div) {
+    $context = get_context($al, $a);
 
     $tok_div++;
-    return "<tr class='error'><td>$i</td><td>" . $al[$a][0] . "</td><td>" . $al[$a][AL] . "</td><td>" . $tt[$t][TT] . "</td><td>" . $tt[$t][0] . "</td><td></td><td>Tokenisation</td></tr>";
+    return "<tr class='error'><td>$i</td><td>$context</td><td>".$al[$a][0]."</td><td>" . $al[$a][AL] . "</td><td>" . $tt[$t][TT] . "</td><td>" . $tt[$t][0] . "</td><td>Tokenisation</td></tr>";
 }
 
 function define_tagger($post, $constant) {

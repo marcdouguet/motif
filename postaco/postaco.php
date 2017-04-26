@@ -36,7 +36,7 @@ while ($a < $count_al and $t < $count_tt) {
                 $t++;
                 break;
             } else {
-                echo "<tr class='error'><td>$i</td><td></td><td></td><td>" . $tt[$t][TT] . "</td><td>" . $tt[$t][0] . "</td><td></td><td>Tokenisation</td></tr>";
+                echo "<tr class='error'><td>$i </td><td></td><td></td><td></td><td>" . $tt[$t][TT] . "</td><td>" . $tt[$t][0] . "</td><td>Tokenisation</td></tr>";
                 $t++;
                 $i++;
                 continue;
@@ -56,7 +56,7 @@ while ($a < $count_al and $t < $count_tt) {
                 $t++;
                 break;
             } else {
-                echo "<tr class='error'><td>$i</td><td>" . $al[$a][0] . "</td><td>" . $al[$a][AL] . "</td><td></td><td></td><td></td><td>Tokenisation</td></tr>";
+                echo "<tr class='error'><td>$i</td><td></td><td>" . $al[$a][0] . "</td><td>" . $al[$a][AL] . "</td><td></td><td></td><td>Tokenisation</td></tr>";
                 $a++;
                 $i++;
                 continue;
@@ -71,5 +71,7 @@ while ($a < $count_al and $t < $count_tt) {
 }
 
 //col de gauche : textfield sur lemme, textfield avec autosuggest sur pos, sauver les résultats
-//étiquetter de la tei ? 
+//surligner les homographes
+//étiquetter de la tei ? sinon, extraire un txt avec / et \ /h1\h2/ ou /\h2/ ou /h1\/ (mais je perds les personnages)
+
 ?>
