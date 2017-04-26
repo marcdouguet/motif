@@ -1,6 +1,6 @@
-pa#ys   pays
-supplé#er   suppléer
-supplé#ez   suppléez
+pa#ys	pays
+supplé#er	suppléer
+supplé#ez	suppléez
 Agré#ez	Agréez
 Albi#ane	Albiane
 Alci#at	Alciat
@@ -56,7 +56,7 @@ Macédoni#ens	Macédoniens
 Mandoni#us	Mandonius
 Manli#us	Manlius
 Mari#us	Marius
-Marié#e	Mariée
+Mari#ée	Mariée
 Marti#an	Martian
 Nymphidi#us	Nymphidius
 Odi#euse	Odieuse
@@ -115,7 +115,6 @@ age#nt	agent
 agrandisseme#nt	agrandissement
 agré#ez	agréez
 agréme#nt	agrément
-ai#e	aie
 aiséme#nt	aisément
 alli#ance	alliance
 alli#é	allié
@@ -124,7 +123,6 @@ ambiti#euse	ambitieuse
 ambiti#eux	ambitieux
 ambiti#on	ambition
 ambiti#onne	ambitionne
-amiti#é	amitié
 amuseme#nt	amusement
 anci#en	ancien
 anxi#été	anxiété
@@ -157,7 +155,7 @@ baudri#ers	baudriers
 brusqueme#nt	brusquement
 calomni#ateur	calomniateur
 calomni#er	calomnier
-calomnié#e	calomniée
+calomni#ée	calomniée
 caprici#eux	capricieux
 capti#eux	captieux
 causai#ent	causaient
@@ -193,8 +191,8 @@ consenteme#nt	consentement
 constamme#nt	constamment
 consternati#on	consternation
 contagi#eux	contagieux
-conte#nt	content
-contenteme#nt	contentement
+conte#nt 	content 
+conte#nteme#nt	contentement
 contestati#on	contestation
 contrari#étés	contrariétés
 conversati#on	conversation
@@ -210,7 +208,6 @@ curi#euse	curieuse
 curi#eux	curieux
 curi#osité	curiosité
 demande#nt	demandent
-de#nt	dent
 devri#ez	devriez
 dextreme#nt	dextrement
 di#adème	diadème
@@ -236,7 +233,6 @@ défi#er	défier
 déguiseme#nt	déguisement
 délati#ons	délations
 déme#nt	dément
-déni#e	dénie
 déni#er	dénier
 désavou#er	désavouer
 désavou#ez	désavouez
@@ -283,6 +279,7 @@ glori#eux	glorieux
 gouverneme#nt	gouvernement
 graci#eux	gracieux
 généreuseme#nt	généreusement
+#haine	haine
 #hais	hais
 #hait	hait
 #hait-il	hait-il
@@ -316,7 +313,6 @@ hardime#nt	hardiment
 #haïssons	haïssons
 heureuseme#nt	heureusement
 #hideux	hideux
-#hommage	hommage
 #honte	honte
 #honteuse	honteuse
 #honteusement	honteusement
@@ -371,7 +367,6 @@ inventi#ons	inventions
 invi#olable	inviolable
 invi#olables	inviolables
 irrésoluti#on	irrésolution
-jou#er	jouer
 jou#et	jouet
 jou#ez	jouez
 jou#i	joui
@@ -390,14 +385,14 @@ justifi#ez-vous	justifiez-vous
 justifi#é	justifié
 justifi#ée	justifiée
 labori#eux	laborieux
-le#nt	lent
+ le#nt	 lent
 lenteme#nt	lentement
 libreme#nt	librement
-li#en	lien
-li#ens	liens
-li#er	lier
-li#on	lion
-li#ons	lions
+ li#en	 lien
+ li#ens	 liens
+ li#er	 lier
+ li#on	 lion
+ li#ons	 lions
 lou#er	louer
 lou#ez	louez
 lou#is	louis
@@ -410,7 +405,7 @@ mari#age	mariage
 mari#er	marier
 mari#ez	mariez
 mari#é	marié
-marié#e	mariée
+mari#ée	mariée
 mendi#er	mendier
 mendi#é	mendié
 mettri#ons	mettrions
@@ -428,7 +423,7 @@ méconte#nt	mécontent
 mécontenteme#nt	mécontentement
 nati#on	nation
 nati#ons	nations
-ni#er	nier
+ ni#er	 nier
 nonchalamme#nt	nonchalamment
 nupti#al	nuptial
 obligati#on	obligation
@@ -445,7 +440,7 @@ opini#on	opinion
 ori#ent	orient
 orneme#nt	ornement
 oubli#ant	oubliant
-oubli#er	oublier
+oubli#er 	oublier 
 oubli#ez	oubliez
 oubli#ez-en	oubliez-en
 oubli#ez-vous	oubliez-vous
@@ -467,12 +462,10 @@ persécuti#on	persécution
 persécuti#ons	persécutions
 pi#euse	pieuse
 pi#eux	pieux
-piti#é	pitié
 pleineme#nt	pleinement
 pleureri#ez	pleureriez
 pompeuseme#nt	pompeusement
 possessi#on	possession
-premi#er	premier
 prendri#ez	prendriez
 pressentime#nt	pressentiment
 pri#ant	priant
@@ -508,6 +501,8 @@ publi#ant	publiant
 publi#er	publier
 publiqueme#nt	publiquement
 publi#és	publiés
+puniti#on	punition
+Liri#ope	Liriope
 puniti#ons	punitions
 questi#on	question
 questi#ons	questions
@@ -518,10 +513,10 @@ redoubleme#nt	redoublement
 refroidisseme#nt	refroidissement
 remerci#ant	remerciant
 remerci#er	remercier
-resse#nt	ressent
+resse#nt 	ressent 
 ressentime#nt	ressentiment
 retardeme#nt	retardement
-ri#ez	riez
+ ri#ez	 riez
 rompri#ons	romprions
 ru#ine	ruine
 ru#ines	ruines
@@ -529,10 +524,10 @@ ru#iné	ruiné
 rébelli#on	rébellion
 rébelli#ons	rébellions
 récepti#on	réception
-rédu#ire	réduire
 réflexi#on	réflexion
 réjou#is	réjouis
 réjou#it	réjouit
+renou#er	renouer
 répudi#ée	répudiée
 réputati#on	réputation
 résoluti#on	résolution
@@ -542,6 +537,8 @@ révoluti#ons	révolutions
 sacrifi#er	sacrifier
 sacrifi#é	sacrifié
 sacrifi#és	sacrifiés
+sacrifi#ez	sacrifiez
+Sacrifi#ez	Sacrifiez
 saineme#nt	sainement
 satisfacti#on	satisfaction
 satisfacti#ons	satisfactions
@@ -639,3 +636,15 @@ véhéme#nt	véhément
 évanou#it	évanouit
 évide#nt	évident
 événeme#nt	événement
+remercieme#nt	remerciement
+entièreme#nt	entièrement
+boucli#er	bouclier
+cri#é	crié
+ressentime#nt	ressentiment
+#hésite	hésite
+instructi#on	instruction
+lauri#er	laurier
+sujétion	sujéti#on
+muettes	mu#ettes
+Renouer	renou#er
+jouer 	jou#er 
