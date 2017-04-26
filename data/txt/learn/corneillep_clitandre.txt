@@ -62,7 +62,7 @@ Cette inclination, qui jusqu’ici vous mène,
 À me la déguiser vous donne trop de peine.
 Il ne faut point, monsieur, beaucoup l’examiner :
 L’heure et le lieu suspects font assez deviner
-Qu’en même temps que vous s’échappe quelque dame...
+Qu’en même temps que vous s’échappe quelque dame…
 Vous m’entendez assez. Juge mieux de ma flamme,
 Et ne présume point que je manque de foi
 À celle que j’adore, et qui brûle pour moi
@@ -70,15 +70,15 @@ J’aime mieux contenter ton humeur curieuse,
 Qui par ces faux soupçons m’est trop injurieuse.
 Tant s’en faut que le change ait pour moi des appas,
 Tant s’en faut qu’en ces bois il attire mes pas :
-J’y vais... Mais pourrais-tu le savoir et le taire ?
+J’y vais… Mais pourrais-tu le savoir et le taire ?
 Qu’ai-je fait qui vous porte à craindre le contraire ?
 Tu vas apprendre tout ; mais aussi, l’ayant su,
 Avise à ta retraite. Hier un cartel reçu
-De la part d’un rival... Vous le nommez ? Clitandre.
+De la part d’un rival… Vous le nommez ? Clitandre.
 Au pied du grand rocher il me doit seul attendre ;
 Et là, l’épée au poing, nous verrons qui des deux
 Mérite d’embraser Caliste de ses feux.
-De sorte qu’un second... Sans me faire une offense,
+De sorte qu’un second… Sans me faire une offense,
 Ne peut se présenter à prendre ma défense :
 Nous devons seul à seul vider notre débat.
 Ne pensez pas sans moi terminer ce combat :
@@ -144,9 +144,9 @@ Ne rencontreront plus aucun empêchement.
 Mais je m’étonne fort de son aveuglement,
 Et je ne comprends point cet orgueilleux caprice
 Qui fait qu’elle vous traite avec tant d’injustice.
-Vos rares qualités... Au lieu de me flatter,
+Vos rares qualités… Au lieu de me flatter,
 Voyons si le projet ne saurait avorter,
-Si la supercherie... Elle est si bien tissue,
+Si la supercherie… Elle est si bien tissue,
 Qu’il faut manquer de sens pour douter de l’issue.
 Clitandre aime Caliste, et comme son rival
 Il a trop de sujet de lui vouloir du mal.
@@ -208,15 +208,15 @@ Va, va, ne songe plus à leurs fausses amours,
 Dont le récit n’était qu’une embûche à tes jours :
 Rosidor t’est fidèle, et cette feinte amante
 Brûle aussi peu pour lui que je fais pour Pymante.
-Déloyale, ainsi donc ton courage inhumain...
+Déloyale, ainsi donc ton courage inhumain…
 Ces injures en l’air n’arrêtent point ma main.
-Le reproche honteux d’une action si noire...
+Le reproche honteux d’une action si noire…
 Qui se venge en secret, en secret en fait gloire.
 T’ai-je donc pu, ma soeur, déplaire en quelque point ?
 Oui, puisque Rosidor t’aime et ne m’aime point ;
 C’est assez m’offenser que d’être ma rivale.
 Meurs, brigand. Ah ! Malheur ! Cette branche fatale
-A rompu mon épée. Assassins... Toutefois,
+A rompu mon épée. Assassins… Toutefois,
 J’ai de quoi me défendre une seconde fois.
 N’est-ce pas Rosidor qui m’arrache les armes ?
 Ah ! Qu’il me va causer de périls et de larmes !
@@ -310,7 +310,7 @@ Mais quel secours propice a trompé mes alarmes ?
 Contre tant d’assassins qui t’a prêté des armes ?
 Toi-même, qui t’a mise à telle heure en ces lieux,
 Où je te vois mourir et revivre à mes yeux ?
-Quand l’amour une fois règne sur un courage...
+Quand l’amour une fois règne sur un courage…
 Mais tâchons de gagner jusqu’au premier village,
 Où ces bouillons de sang se puissent arrêter ;
 Là j’aurai tout loisir de te le raconter,
@@ -392,15 +392,15 @@ Allez, témoins honteux de mes lâches forfaits,
 N’en produisez non plus de soupçons que d’effets.
 Ainsi n’ayant plus rien qui démente ma feinte,
 Dedans cette forêt je marcherai sans crainte,
-Tant que... Mon grand ami ! Monsieur ? Viens çà, dis-nous,
+Tant que… Mon grand ami ! Monsieur ? Viens çà, dis-nous,
 N’as-tu point ici vu deux cavaliers aux coups ?
 Non, monsieur. Ou l’un d’eux se sauver à la fuite ?
 Non, monsieur. Ni passer dedans ces bois sans suite ?
-Attendez, il y peut avoir quelques huit jours...
+Attendez, il y peut avoir quelques huit jours…
 Je parle d’aujourd’hui : laisse là ces discours ;
-Réponds précisément. Pour aujourd’hui, je pense...
+Réponds précisément. Pour aujourd’hui, je pense…
 Toutefois, si la chose était de conséquence,
-Dans le prochain village on saurait aisément...
+Dans le prochain village on saurait aisément…
 Donnons jusques au lieu ; c’est trop d’amusement.
 Ce départ favorable enfin me rend la vie,
 Que tant de questions m’avaient presque ravie.
@@ -490,7 +490,7 @@ Avise donc ; tu sais qu’un fils peut tout sur elle.
 Malgré tous les mépris de cette âme cruelle,
 Dont un autre a charmé les inclinations,
 J’ai toujours du respect pour ses perfections,
-Et je serais marri qu’aucune violence...
+Et je serais marri qu’aucune violence…
 L’amour sur le respect emporte la balance.
 Je brûle ; et le bonheur de vaincre ses froideurs,
 Je ne le veux devoir qu’à mes vives ardeurs ;
@@ -502,7 +502,7 @@ N’obtient, non plus que moi, le succès espéré.
 Pourra de leurs esprits rompre l’intelligence ;
 Un temps bien pris alors me donne en un moment
 Ce que depuis trois ans je poursuis vainement.
-Mon prince, trouvez bon... N’en dis pas davantage ;
+Mon prince, trouvez bon… N’en dis pas davantage ;
 Celui-ci qui me vient faire quelque message
 Apprendrait malgré toi l’état de tes amours.
 Pardonnez-moi, seigneur, si je romps vos discours ;
@@ -581,11 +581,11 @@ D’un contre-coup égal va croître leurs amours.
 Heureux couple d’amants que le destin assemble,
 Qu’il expose en péril, qu’il en retire ensemble;
 Ô dieux ! Voici Géronte, et je le croyais mort.
-Malheureux compagnon de mon funeste sort...
+Malheureux compagnon de mon funeste sort…
 Ton oeil t’abuse. Hélas ! Misérable, regarde
 Qu’au lieu de Rosidor ton erreur me poignarde.
 Ne crains pas, cher ami, ce funeste accident,
-Je te connais assez, je suis... Mais imprudent,
+Je te connais assez, je suis… Mais imprudent,
 Où m’allait engager mon erreur indiscrète ?
 Monsieur, pardonnez-moi la faute que j’ai faite.
 Un berger d’ici près a quitté ses brebis
@@ -605,7 +605,7 @@ Prends pitié de mes maux pour trois ou quatre jours ;
 Durant ce peu de temps, accorde une retraite
 Sous ton chaume rustique à ma fuite secrète :
 D’un ennemi puissant la haine me poursuit,
-Et n’ayant pu qu’à peine éviter cette nuit...
+Et n’ayant pu qu’à peine éviter cette nuit…
 L’affaire qui me presse est assez importante
 Pour ne pouvoir, monsieur, répondre à votre attente ;
 Mais si vous me donniez le loisir d’un moment,
@@ -614,9 +614,9 @@ Et j’estime qu’alors il me serait facile
 Contre cet ennemi de vous faire un asile.
 Mais, avant ton retour, si quelque instant fatal
 M’exposait par malheur aux yeux de ce brutal,
-Et que l’emportement de son humeur altière...
+Et que l’emportement de son humeur altière…
 Pour ne rien hasarder, cachez-vous là derrière.
-Souffre que je te suive, et que mes tristes pas...
+Souffre que je te suive, et que mes tristes pas…
 J’ai des secrets, monsieur, qui ne le souffrent pas,
 Et ne puis rien pour vous, à moins que de m’attendre :
 Avisez au parti que vous avez à prendre.
@@ -778,7 +778,7 @@ Mais un plus long séjour pourrait ici te nuire :
 Ne perdons plus de temps ; laisse-moi te conduire
 Jusque dans l’antichambre où Lysarque t’attend,
 Et montre désormais un esprit plus content.
-Si près de te quitter... N’achève pas ta plainte.
+Si près de te quitter… N’achève pas ta plainte.
 Tous deux nous ressentons cette commune atteinte ;
 Mais d’un fâcheux respect la tyrannique loi
 M’appelle chez la reine et m’éloigne de toi.
@@ -1125,7 +1125,7 @@ En ont tari la source et séché les ruisseaux ;
 Et déjà le soleil de ses rayons essuie
 Sur ces moites rameaux le reste de la pluie.
 Au lieu du bruit affreux des foudres décochés,
-Les petits oisillons, encor demi-cachés...
+Les petits oisillons, encor demi-cachés…
 Mais je verrai bientôt quelques-uns de ma suite :
 Je le juge à ce bruit. Enfin, malgré ta fuite,
 Je te retiens, barbare. Hélas ! Songe à mourir ;
@@ -1381,10 +1381,10 @@ L’amour apprit ensemble à nos yeux à parler ;
 Et sa timidité lui donna la prudence
 De n’admettre que nous en notre confidence :
 Ainsi nos passions se dérobaient à tous ;
-Ainsi nos feux secrets n’ayant point de jaloux...
+Ainsi nos feux secrets n’ayant point de jaloux…
 Mais qui vient jusqu’ici troubler mes rêveries ?
 Celle qui voudrait voir tes blessures guéries,
-Celle... Ah, mon heur, jamais je n’obtiendrais sur moi
+Celle… Ah, mon heur, jamais je n’obtiendrais sur moi
 De pardonner ce crime à tout autre qu’à toi.
 De notre amour naissant la douceur et la gloire
 De leur charmante idée occupaient ma mémoire,
@@ -1400,7 +1400,7 @@ Quoiqu’à dire le vrai je ne sais pas trop bien
 En quoi je dédirais ce secret entretien,
 Si ta pleine santé me donnait lieu de dire
 Quelle borne à tes voeux je puis et dois prescrire.
-Prends soin de te guérir, et les miens plus contents...
+Prends soin de te guérir, et les miens plus contents…
 Mais je te le dirai quand il en sera temps.
 Cet énigme enjoué n’a point d’incertitude
 Qui soit propre à donner beaucoup d’inquiétude,
@@ -1426,7 +1426,7 @@ Je l’avais bien prévu, que ton impatience
 Porterait ton espoir à trop de confiance,
 Que pour craindre trop peu tu devinerais mal.
 Quoi ! La reine ose encor soutenir mon rival,
-Et sans avoir d’horreur d’une action si noire...
+Et sans avoir d’horreur d’une action si noire…
 Elle a l’âme trop haute et chérit trop la gloire,
 Pour ne pas s’accorder aux volontés du roi,
 Qui d’un heureux hymen récompense ta foi.
@@ -1437,7 +1437,7 @@ Ce n’est pas pour un jour que je veux un mari,
 Et je ne puis souffrir que ton ardeur hasarde
 Un bien que de ton roi la prudence retarde.
 Prends soin de te guérir, mais guérir tout à fait,
-Et crois que tes désirs... N’auront aucun effet.
+Et crois que tes désirs… N’auront aucun effet.
 N’auront aucun effet ! Qui te le persuade ?
 Un corps peut-il guérir, dont le coeur est malade ?
 Tu m’as rendu mon change, et m’as fait quelque peur,
@@ -1611,7 +1611,7 @@ En moi dorénavant faites état d’un frère.
 En moi, d’un serviteur dont l’amour éperdu
 Ne vous conteste plus un prix qui vous est dû.
 Si le pardon du roi me peut donner le vôtre,
-Si mon crime... Ah ma soeur, tu me prends pour une autre,
+Si mon crime… Ah ma soeur, tu me prends pour une autre,
 Si tu crois que je puisse encor m’en souvenir.
 Tu ne veux plus songer qu’à ce jour à venir
 Où Rosidor guéri termine un hyménée.

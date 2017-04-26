@@ -66,7 +66,7 @@ Il attaqua le Parthe, et se crut assez fort
 Pour en venger sur lui la prison et la mort.
 Jusque dans ses états il lui porta la guerre ;
 Il s’y fit partout craindre à l’égal du tonnerre ;
-Il lui donna bataille, où mille beaux exploits...
+Il lui donna bataille, où mille beaux exploits…
 Je vous achèverai le reste une autre fois,
 Un des princes survient. Demeurez, Laonice :
 Vous pouvez, comme lui, me rendre un bon office.
@@ -290,8 +290,8 @@ Sitôt qu’ils ont paru tous deux en cette cour,
 Ils ont vu Rodogune, et j’ai vu leur amour ;
 Mais comme étant rivaux nous les trouvons à plaindre,
 Connaissant leur vertu, je n’en vois rien à craindre.
-Pour vous qui gouvernez cet objet de leurs voeux...
-Et n’ai point encor vu qu’elle aime aucun des deux...
+Pour vous qui gouvernez cet objet de leurs voeux…
+Et n’ai point encor vu qu’elle aime aucun des deux…
 Vous me trouvez mal propre à cette confidence,
 Et peut-être à dessein je la vois qui s’avance.
 Adieu : je dois au rang qu’elle est prête à tenir
@@ -382,7 +382,7 @@ Vous craignez que ma foi vous l’ose reprocher ?
 Que ne puis-je à moi-même aussi bien le cacher !
 Quoi que vous me cachiez, aisément je devine ;
 Et pour vous dire enfin ce que je m’imagine,
-Le prince... Garde-toi de nommer mon vainqueur :
+Le prince… Garde-toi de nommer mon vainqueur :
 Ma rougeur trahirait les secrets de mon coeur,
 Et je te voudrais mal de cette violence
 Que ta dextérité ferait à mon silence ;
@@ -514,7 +514,7 @@ Il m’imposa des lois, exigea des serments,
 Et moi, j’accordai tout pour obtenir du temps.
 Le temps est un trésor plus grand qu’on ne peut croire :
 J’en obtins, et je crus obtenir la victoire.
-J’ai pu reprendre haleine, et sous de faux apprêts...
+J’ai pu reprendre haleine, et sous de faux apprêts…
 Mais voici mes deux fils, que j’ai mandés exprès :
 écoute, et tu verras quel est cet hyménée
 Où se doit terminer cette illustre journée.
@@ -550,7 +550,7 @@ Et de dépositaire et de libérateur,
 Il s’érige en tyran et lâche usurpateur.
 Sa main l’en a puni : pardonnons à son ombre ;
 Aussi bien en un seul voici des maux sans nombre.
-Nicanor votre père et mon premier époux...
+Nicanor votre père et mon premier époux…
 Mais pourquoi lui donner encor des noms si doux,
 Puisque l’ayant cru mort, il sembla ne revivre
 Que pour s’en dépouiller afin de nous poursuivre ?
@@ -658,7 +658,7 @@ Vous ne répondez point ! Allez, enfants ingrats,
 Pour qui je crus en vain conserver ces états :
 J’ai fait votre oncle roi, j’en ferai bien un autre ;
 Et mon nom peut encore ici plus que le vôtre.
-Mais, madame, voyez que pour premier exploit...
+Mais, madame, voyez que pour premier exploit…
 Mais que chacun de vous pense à ce qu’il me doit.
 Je sais bien que le sang qu’à vos mains je demande
 N’est pas le digne essai d’une valeur bien grande ;
@@ -774,7 +774,7 @@ Cet avis salutaire est l’unique secours
 À qui je crois devoir le reste de mes jours ;
 Mais ce n’est pas assez de m’avoir avertie :
 Il faut de ces périls m’aplanir la sortie ;
-Il faut que tes conseils m’aident à repousser...
+Il faut que tes conseils m’aident à repousser…
 Madame, au nom des dieux, veuillez m’en dispenser :
 C’est assez que pour vous je lui sois infidèle,
 Sans m’engager encore à des conseils contre elle.
@@ -1037,8 +1037,8 @@ Soyez cruels, ingrats, parricides comme elle.
 Vous devez la punir, si vous la condamnez ;
 Vous devez l’imiter, si vous la soutenez.
 Quoi ? Cette ardeur s’éteint ! L’un et l’autre soupire !
-J’avais su le prévoir, j’avais su le prédire...
-Princesse... Il n’est plus temps, le mot en est lâché.
+J’avais su le prévoir, j’avais su le prédire…
+Princesse… Il n’est plus temps, le mot en est lâché.
 Quand j’ai voulu me taire, en vain je l’ai tâché.
 Appelez ce devoir haine, rigueur, colère :
 Pour gagner Rodogune il faut venger un père ;
@@ -1131,7 +1131,7 @@ La nature et l’amour voudront parler pour nous.
 Prince, qu’ai-je entendu ? Parce que je soupire,
 Vous présumez que j’aime, et vous m’osez le dire !
 Est-ce un frère, est-ce vous dont la témérité
-S’imagine... Apaisez ce courage irrité,
+S’imagine… Apaisez ce courage irrité,
 Princesse ; aucun de nous ne serait téméraire
 Jusqu’à s’imaginer qu’il eût l’heur de vous plaire :
 Je vois votre mérite et le peu que je vaux,
@@ -1144,7 +1144,7 @@ Si c’est présomption de croire ce miracle,
 C’est une impiété de douter de l’oracle,
 Et mériter les maux où vous nous condamnez,
 Qu’éteindre un bel espoir que vous nous ordonnez.
-Princesse, au nom des dieux, au nom de cette flamme...
+Princesse, au nom des dieux, au nom de cette flamme…
 Un mot ne fait pas voir jusques au fond d’une âme ;
 Et votre espoir trop prompt prend trop de vanité
 Des termes obligeants de ma civilité.
@@ -1194,7 +1194,7 @@ Et laissez un exemple à la postérité
 Et de rigueur entière et d’entière équité.
 Quoi ? N’écouterez-vous ni l’amour ni la haine ?
 Ne pourrai-je obtenir ni salaire ni peine ?
-Ce coeur qui vous adore et que vous dédaignez...
+Ce coeur qui vous adore et que vous dédaignez…
 Hélas ! Prince. Est-ce encor le roi que vous plaignez ?
 Ce soupir ne va-t-il que vers l’ombre d’un père ?
 Allez, ou pour le moins rappelez votre frère :
@@ -1242,7 +1242,7 @@ Et quittant les douceurs de cet espoir flottant,
 Je mourrai de douleur, mais je mourrai content.
 Et moi, si mon destin entre ses mains me livre,
 Pour un autre que vous s’il m’ordonne de vivre,
-Mon amour... Mais adieu : mon esprit se confond.
+Mon amour… Mais adieu : mon esprit se confond.
 Prince, si votre flamme à la mienne répond,
 Si vous n’êtes ingrat à ce coeur qui vous aime,
 Ne me revoyez point qu’avec le diadème.
@@ -1328,7 +1328,7 @@ L’un n’ôte point à l’autre une âme qu’il possède.
 Non, non, où l’amour règne il faut que l’autre cède.
 Leurs charmes à nos coeurs sont également doux.
 Nous périrons tous deux s’il faut périr pour vous ;
-Mais aussi... Poursuivez, fils ingrat et rebelle.
+Mais aussi… Poursuivez, fils ingrat et rebelle.
 Nous périrons tous deux s’il faut périr pour elle.
 Périssez, périssez : votre rébellion
 Mérite plus d’horreur que de compassion.
@@ -1378,7 +1378,7 @@ Et nous vous ferons voir tous nos désirs bornés
 À vous donner en nous des sujets couronnés.
 Enfin ce grand courage a vaincu sa colère.
 Que ne peut point un fils sur le coeur d’une mère ?
-Vos pleurs coulent encore, et ce coeur adouci...
+Vos pleurs coulent encore, et ce coeur adouci…
 Envoyez-moi son frère, et nous laissez ici.
 Sa douleur sera grande, à ce que je présume ;
 Mais j’en saurai sur l’heure adoucir l’amertume.
@@ -1472,7 +1472,7 @@ Le respect me défend d’en dire davantage.
 Je n’ai ni faute d’yeux ni faute de courage,
 Madame ; mais enfin n’espérez voir en moi
 Qu’amitié pour mon frère, et zèle pour mon roi.
-Adieu. De quel malheur suis-je encor capable ?
+Adieu. De quel malheur suis-je encore capable ?
 Leur amour m’offensait, leur amitié m’accable ;
 Et contre mes fureurs je trouve en mes deux fils
 Deux enfants révoltés et deux rivaux unis.
@@ -1596,15 +1596,15 @@ Ciel ! Que ne dois-je point aux bontés d’une mère ?
 Le temps presse, et votre heur d’autant plus se diffère.
 Madame, hâtons donc ces glorieux moments :
 Voici l’heureux essai de nos contentements.
-Mais si mon frère était le témoin de ma joie...
+Mais si mon frère était le témoin de ma joie…
 C’est être trop cruel de vouloir qu’il la voie :
 Ce sont des déplaisirs qu’il fait bien d’épargner ;
 Et sa douleur secrète a droit de l’éloigner.
 Il m’avait assuré qu’il la verrait sans peine.
 Mais n’importe, achevons. Ah ! Seigneur. Timagène,
 Quelle est votre insolence ? Ah ! Madame. Parlez.
-Souffrez pour un moment que mes sens rappelés...
-Qu’est-il donc arrivé ? Le prince votre frère...
+Souffrez pour un moment que mes sens rappelés…
+Qu’est-il donc arrivé ? Le prince votre frère…
 Quoi ? Se voudrait-il rendre à mon bonheur contraire ?
 L’ayant cherché longtemps afin de divertir
 L’ennui que de sa perte il pouvait ressentir,
@@ -1614,10 +1614,10 @@ Sur un lit de gazon, de faiblesse étendu,
 Il semblait déplorer ce qu’il avait perdu :
 Son âme à ce penser paraissait attachée ;
 Sa tête sur un bras languissamment penchée,
-Immobile et rêveur, en malheureux amant...
+Immobile et rêveur, en malheureux amant…
 Enfin, que faisait-il ? Achevez promptement.
 D’une profonde plaie en l’estomac ouverte,
-Son sang à gros bouillons sur cette couche verte...
+Son sang à gros bouillons sur cette couche verte…
 Il est mort ? Oui, madame. Ah ! Destins ennemis,
 Qui m’enviez le bien que je m’étais promis,
 Voilà le coup fatal que je craignais dans l’âme,
@@ -1640,7 +1640,7 @@ Et ce reste égaré de lumière incertaine
 Lui peignant son cher frère au lieu de Timagène,
 Rempli de votre idée, il m’adresse pour vous
 Ces mots où l’amitié règne sur le courroux :
-C’est... " la Parque à ce mot lui coupe la parole ;
+C’est… " la Parque à ce mot lui coupe la parole ;
 Sa lumière s’éteint, et son âme s’envole ;
 Et moi, tout effrayé d’un si tragique sort,
 J’accours pour vous en faire un funeste rapport.
@@ -1758,7 +1758,7 @@ Pour me faire un passage à vous percer le coeur.
 Où fuirais-je de vous après tant de furie,
 Madame, et que ferait toute votre Syrie,
 Où seule, et sans appui contre mes attentats,
-Je verrais... ? Mais, seigneur, vous ne m’écoutez pas.
+Je verrais… ? Mais, seigneur, vous ne m’écoutez pas.
 Non, je n’écoute rien ; et dans la mort d’un frère
 Je ne veux point juger entre vous et ma mère :
 Assassinez un fils, massacrez un époux,
@@ -1773,7 +1773,7 @@ Heureux si sa fureur, qui me prive de toi,
 Se fait bientôt connaître en achevant sur moi,
 Et si du ciel, trop lent à la réduire en poudre,
 Son crime redoublé peut arracher la foudre !
-Donnez-moi... Quoi ? Seigneur. Vous m’arrêtez en vain :
+Donnez-moi… Quoi ? Seigneur. Vous m’arrêtez en vain :
 Donnez. Ah ! Gardez-vous de l’une et l’autre main.
 Cette coupe est suspecte, elle vient de la reine ;
 Craignez de toutes deux quelque secrète haine.
@@ -1797,7 +1797,7 @@ Pour moi, qui ne vois rien, dans le trouble où je suis,
 Qu’un gouffre de malheurs, qu’un abîme d’ennuis,
 Attendant qu’en plein jour ces vérités paraissent,
 J’en laisse la vengeance aux dieux qui les connaissent,
-Et vais sans plus tarder... Seigneur, voyez ses yeux
+Et vais sans plus tarder… Seigneur, voyez ses yeux
 Déjà tous égarés, troubles et furieux,
 Cette affreuse sueur qui court sur son visage,
 Cette gorge qui s’enfle. Ah, bons dieux ! Quelle rage !

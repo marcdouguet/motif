@@ -33,6 +33,7 @@ foreach ($files as $file) {
             $string.= $line->textContent . "\n";
         }
     }
+    $string = trim($string);
     file_put_contents("../data/txt/learn/" . $file_name . ".txt", $string);
 }
 ?>

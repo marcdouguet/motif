@@ -8,7 +8,7 @@ Dis-moi, me trouves-tu bien fait en cavalier ?
 Ne vois-tu rien en moi qui sente l’écolier ?
 Comme il est malaisé qu’aux royaumes du code
 On apprenne à se faire un visage à la mode,
-J’ai lieu d’appréhender... Ne craignez rien pour vous :
+J’ai lieu d’appréhender… Ne craignez rien pour vous :
 Vous ferez en une heure ici mille jaloux.
 Ce visage et ce port n’ont point l’air de l’école,
 Et jamais comme vous on ne peignit Bartole :
@@ -102,7 +102,7 @@ Il est aisé pourtant d’en savoir des nouvelles,
 Et bientôt leur cocher m’en dira des plus belles.
 Penses-tu qu’il t’en dise ? Assez pour en mourir :
 Puisque c’est un cocher, il aime à discourir.
-Aïe ! Ce malheur me rend un favorable office,
+Ay ! Ce malheur me rend un favorable office,
 Puisqu’il me donne lieu de ce petit service ;
 Et c’est pour moi, madame, un bonheur souverain
 Que cette occasion de vous donner la main.
@@ -164,9 +164,9 @@ Que lui va-t-il conter ? Et durant ces quatre ans
 Il ne s’est fait combats, ni sièges importants,
 Nos armes n’ont jamais remporté de victoire,
 Où cette main n’ait eu bonne part à la gloire :
-Et même la gazette a souvent divulgués...
+Et même la gazette a souvent divulgués…
 Savez-vous bien, monsieur, que vous extravaguez ?
-Tais-toi. Vous rêvez, dis-je, ou... Tais-toi, misérable.
+Tais-toi. Vous rêvez, dis-je, ou… Tais-toi, misérable.
 Vous venez de Poitiers, ou je me donne au diable ;
 Vous en revîntes hier. Te tairas-tu, maraud ?
 Mon nom dans nos succès s’était mis assez haut
@@ -255,8 +255,8 @@ Si je n’en avais fait, j’aurais bien peu d’adresse,
 Moi qui depuis un mois suis ici de retour.
 Il est vrai que je sors fort peu souvent de jour :
 De nuit, incognito, je rends quelques visites ;
-Ainsi... Vous ne savez, Monsieur, ce que vous dites.
-Tais-toi ; si jamais plus tu me viens avertir...
+Ainsi… Vous ne savez, Monsieur, ce que vous dites.
+Tais-toi ; si jamais plus tu me viens avertir…
 J’enrage de me taire et d’entendre mentir !
 Voyez qu’heureusement dedans cette rencontre
 Votre rival lui-même à vous-même se montre.
@@ -365,7 +365,7 @@ Que ce qu’il veut m’apprendre a de quoi m’étonner,
 Je le sers aussitôt d’un conte imaginaire,
 Qui l’étonne lui-même, et le force à se taire.
 Si tu pouvais savoir quel plaisir on a lors
-De leur faire rentrer leurs nouvelles au corps...
+De leur faire rentrer leurs nouvelles au corps…
 Je le juge assez grand ; mais enfin ces pratiques
 Vous peuvent engager en de fâcheux intriques.
 Nous nous en tirerons ; mais tous ces vains discours
@@ -470,11 +470,11 @@ Ah ! Clarice, ah ! Clarice, inconstante ! Volage !
 Aurait-il deviné déjà ce mariage ?
 Alcippe, qu’avez-vous ? Qui vous fait soupirer ?
 Ce que j’ai, déloyale ! Et peux-tu l’ignorer ?
-Parle à ta conscience, elle devrait t’apprendre...
+Parle à ta conscience, elle devrait t’apprendre…
 Parlez un peu plus bas, mon père va descendre.
 Ton père va descendre, âme double et sans foi !
 Confesse que tu n’as un père que pour moi.
-La nuit, sur la rivière... Eh bien ! Sur la rivière ?
+La nuit, sur la rivière… Eh bien ! Sur la rivière ?
 La nuit ! Quoi ? Qu’est-ce enfin ? Oui, la nuit toute entière.
 Après ? Quoi ! Sans rougir ? Rougir ! à quel propos ?
 Tu ne meurs pas de honte, entendant ces deux mots ?
@@ -485,7 +485,7 @@ Quoi, tout ? Tes passe-temps de l’un à l’autre bout.
 Je meure, en vos discours si je puis rien comprendre !
 Quand je te veux parler, ton père va descendre,
 Il t’en souvient alors ; le tour est excellent !
-Mais pour passer la nuit auprès de ton galant...
+Mais pour passer la nuit auprès de ton galant…
 Alcippe, êtes-vous fol ? Je n’ai plus lieu de l’être,
 À présent que le ciel me fait te mieux connaître.
 Oui, pour passer la nuit en danses et festin,
@@ -496,7 +496,7 @@ Ce mystère est nouveau, mais non pas fort secret :
 Choisis une autre fois un amant plus discret ;
 Lui-même il m’a tout dit. Qui, lui-même ? Dorante.
 Dorante ! Continue, et fais bien l’ignorante.
-Si je le vis jamais, et si je le connais ! ...
+Si je le vis jamais, et si je le connais ! …
 Ne viens-je pas de voir son père avecque toi ?
 Tu passes, infidèle, âme ingrate et légère,
 La nuit avec le fils, le jour avec le père !
@@ -504,7 +504,7 @@ Son père, de vieux temps, est grand ami du mien.
 Cette vieille amitié faisait votre entretien ?
 Tu te sens convaincue, et tu m’oses répondre !
 Te faut-il quelque chose encor pour te confondre ?
-Alcippe, si je sais quel visage a le fils...
+Alcippe, si je sais quel visage a le fils…
 La nuit était fort noire alors que tu le vis.
 Il ne t’a pas donné quatre choeurs de musique,
 Une collation superbe et magnifique,
@@ -581,7 +581,7 @@ Et l’affaire est conclue. Ah ! Monsieur, j’en frémi :
 D’un fardeau si pesant accabler ma jeunesse !
 Fais ce que je t’ordonne. Il faut jouer d’adresse.
 Quoi ? Monsieur, à présent qu’il faut dans les combats
-acquérir quelque nom, et signaler mon bras...
+acquérir quelque nom, et signaler mon bras…
 Avant qu’être au hasard qu’un autre bras t’immole,
 Je veux dans ma maison avoir qui m’en console ;
 Je veux qu’un petit-fils puisse y tenir ton rang,
@@ -590,15 +590,15 @@ En un mot, je le veux. Vous êtes inflexible !
 Fais ce que je te dis. Mais s’il est impossible ?
 Impossible ! Et comment ? Souffrez qu’aux yeux de tous
 Pour obtenir pardon j’embrasse vos genoux.
-Je suis... Quoi ? Dans Poitiers... Parle donc, et te lève.
+Je suis… Quoi ? Dans Poitiers… Parle donc, et te lève.
 Je suis donc marié, puisqu’il faut que j’achève.
 Sans mon consentement ? On m’a violenté :
 Vous ferez tout casser par votre autorité,
 Mais nous fûmes tous deux forcés à l’hyménée
-Par la fatalité la plus inopinée...
+Par la fatalité la plus inopinée…
 Ah ! Si vous le saviez ! Dis, ne me cache rien.
 Elle est de fort bon lieu, mon père ; et pour son bien,
-S’il n’est du tout si grand que votre humeur souhaite...
+S’il n’est du tout si grand que votre humeur souhaite…
 Sachons, à cela près, puisque c’est chose faite.
 Elle se nomme ? Orphise ; et son père, Armédon.
 Je n’ai jamais ouï ni l’un ni l’autre nom.
@@ -692,7 +692,7 @@ Oh ! L’utile secret que mentir à propos !
 Quoi ? Ce que vous disiez n’est pas vrai ? Pas deux mots ;
 Et tu ne viens d’ouïr qu’un trait de gentillesse
 Pour conserver mon âme et mon coeur à Lucrèce.
-Quoi ? La montre, l’épée, avec le pistolet...
+Quoi ? La montre, l’épée, avec le pistolet…
 Industrie. Obligez, monsieur, votre valet :
 Quand vous voudrez jouer de ces grands coups de maître,
 Donnez-lui quelque signe à les pouvoir connaître ;
@@ -702,9 +702,9 @@ Tu seras de mon coeur l’unique secrétaire,
 Et de tous mes secrets le grand dépositaire.
 Avec ces qualités j’ose bien espérer
 Qu’assez malaisément je pourrai m’en parer.
-Mais parlons de vos feux. Certes cette maîtresse...
+Mais parlons de vos feux. Certes cette maîtresse…
 Lisez ceci, monsieur. D’où vient-il ? De Lucrèce.
-Dis-lui que j’y viendrai. Doute encor, Cliton,
+Dis-lui que j’y viendrai. Doute encore, Cliton,
 À laquelle des deux appartient ce beau nom.
 Lucrèce sent sa part des feux qu’elle fait naître,
 Et me veut cette nuit parler par sa fenêtre.
@@ -806,7 +806,7 @@ Lui qui depuis un mois nous cachant sa venue,
 La nuit, incognito, visite une inconnue,
 Il vint hier de Poitiers, et sans faire aucun bruit,
 Chez lui paisiblement a dormi toute nuit.
-Quoi ! Sa collation... N’est rien qu’un pur mensonge ;
+Quoi ! Sa collation… N’est rien qu’un pur mensonge ;
 Ou, quand il l’a donnée, il l’a donnée en songe.
 Dorante, en ce combat si peu prémédité,
 M’a fait voir trop de coeur pour tant de lâcheté.
@@ -838,7 +838,7 @@ Je veux par ce récit vous préparer la voie,
 Dissiper sa colère et lui rendre sa joie.
 Ne vous exposez point, pour gagner un moment,
 aux premières chaleurs de son ressentiment.
-Si du jour cri s’enfuit la lumière est fidèle,
+Si du jour qui s’enfuit la lumière est fidèle,
 Je pense l’entrevoir avec son Isabelle.
 Je suivrai tes conseils, et fuirai son courroux
 Jusqu’à ce qu’elle ait ri de m’avoir vu jaloux.
@@ -967,7 +967,7 @@ Moi, marié ! Ce sont pièces qu’on vous a faites ;
 Quiconque vous l’a dit s’est voulu divertir.
 Est-il un plus grand fourbe ? Il ne sait que mentir.
 Je ne le fus jamais ; et si par cette voie
-On pense... Et vous pensez encor que je vous croie ?
+On pense… Et vous pensez encor que je vous croie ?
 Que le foudre à vos yeux m’écrase, si je mens !
 Un menteur est toujours prodigue de serments.
 Non, si vous avez eu pour moi quelque pensée
@@ -1000,12 +1000,12 @@ J’ai donc feint cet hymen (pourquoi désavouer
 Ce qui vous forcera vous-même à me louer ? ) ;
 Je l’ai feint, et ma feinte à vos mépris m’expose ;
 Mais si de ces détours vous seule étiez la cause ?
-Moi ? Vous. écoutez-moi. Ne pouvant consentir...
+Moi ? Vous. écoutez-moi. Ne pouvant consentir…
 De grâce, dites-moi si vous allez mentir.
 Ah ! Je t’arracherai cette langue importune.
 Donc, comme à vous servir j’attache ma fortune,
 L’amour que j’ai pour vous ne pouvant consentir
-Qu’un père à d’autres lois voulût m’assujettir...
+Qu’un père à d’autres lois voulût m’assujettir…
 Il fait pièce nouvelle, écoutons. Cette adresse
 a conservé mon âme à la belle Lucrèce ;
 Et par ce mariage au besoin inventé,
@@ -1052,7 +1052,7 @@ Aujourd’hui cependant on m’a dit qu’en plein jour
 Vous lui serriez la main, et lui parliez d’amour.
 Quelqu’un auprès de vous m’a fait cette imposture.
 Écoutez l’imposteur ; c’est hasard s’il n’en jure.
-Que du ciel... L’ai-je dit ? J’éprouve le courroux
+Que du ciel… L’ai-je dit ? J’éprouve le courroux
 Si j’ai parlé, Lucrèce, à personne qu’à vous !
 Je ne puis plus souffrir une telle impudence,
 après ce que j’ai vu moi-même en ma présence :
@@ -1142,9 +1142,9 @@ Et le perçant à jour de deux coups d’estocade
 Je le mets hors d’état d’être jamais malade :
 Il tombe dans son sang. À ce compte il est mort ?
 Je le laissai pour tel. Certes, je plains son sort :
-Il était honnête homme ; et le ciel ne déploie...
+Il était honnête homme ; et le ciel ne déploie…
 Je te veux, cher ami, faire part de ma joie.
-Je suis heureux : mon père... Eh bien ? Vient d’arriver.
+Je suis heureux : mon père… Eh bien ? Vient d’arriver.
 Cette place pour vous est commode à rêver.
 Ta joie est peu commune, et pour revoir un père
 Un tel homme que nous ne se réjouit guère.
@@ -1247,7 +1247,7 @@ Ne lui pourrai-je ôter ce souci de la tête ?
 Votre main ou la mienne, il n’importe des deux.
 Ces nobles de province y sont un peu fâcheux.
 Son père sait la cour. Ne me fais plus attendre,
-Dis-moi... Que lui dirai-je ? Il s’appelle ? Pyrandre.
+Dis-moi… Que lui dirai-je ? Il s’appelle ? Pyrandre.
 Pyrandre ! Tu m’as dit tantôt un autre nom :
 C’était, je m’en souviens, oui, c’était Armédon.
 Oui, c’est là son nom propre, et l’autre d’une terre ;
@@ -1273,8 +1273,8 @@ Chère amie, hier au soir j’étais si transporté,
 Qu’en ce ravissement je ne pus me permettre
 De bien penser à toi quand j’eus lu cette lettre ;
 Mais tu n’y perdras rien, et voici pour le port.
-Ne croyez pas, monsieur... Tiens. Vous me faites tort.
-Je ne suis pas de... Prends. Eh ! Monsieur. Prends, te dis-je :
+Ne croyez pas, monsieur… Tiens. Vous me faites tort.
+Je ne suis pas de… Prends. Eh ! Monsieur. Prends, te dis-je :
 Je ne suis point ingrat alors que l’on m’oblige ;
 Dépêche, tends la main. Qu’elle y fait de façons !
 Je lui veux par pitié donner quelques leçons.
@@ -1304,7 +1304,7 @@ Je reviens dans une heure en apprendre l’effet.
 Je vous conterai lors tout ce que j’aurai fait.
 Tu vois que les effets préviennent les paroles ;
 C’est un homme qui fait litière de pistoles ;
-Mais comme auprès de lui je puis beaucoup pour toi...
+Mais comme auprès de lui je puis beaucoup pour toi…
 Fais tomber de la pluie, et laisse faire à moi.
 Tu viens d’entrer en goût. Avec mes révérences,
 Je ne suis pas encor si dupe que tu penses.
@@ -1456,7 +1456,7 @@ Vous connaissez le nom de cet objet charmant
 Qui fait de ces cantons le plus digne ornement ?
 Croyez que cette Orphise, Armédon, et Pyrandre,
 Sont gens dont à Poitiers on ne peut rien apprendre.
-S’il vous faut sur ce point encor quelque garant...
+S’il vous faut sur ce point encor quelque garant…
 En faveur de mon fils vous faites l’ignorant ;
 Mais je ne sais que trop qu’il aime cette Orphise,
 Et qu’après les douceurs d’une longue hantise,
@@ -1528,7 +1528,7 @@ Et si dedans le sang il ne lave l’affront
 Qu’un si honteux outrage imprime sur son front ?
 Qui vous dit que je mens ? Qui me le dit, infâme ?
 Dis-moi, si tu le peux, dis le nom de ta femme.
-Le conte qu’hier au soir tu m’en fis publier...
+Le conte qu’hier au soir tu m’en fis publier…
 Dites que le sommeil vous l’a fait oublier.
 Ajoute, ajoute encore avec effronterie
 Le nom de ton beau-père et de sa seigneurie ;
@@ -1558,7 +1558,7 @@ Non, la vérité pure. En est-il dans ta bouche ?
 Voici pour votre adresse une assez rude touche.
 Épris d’une beauté qu’à peine j’ai pu voir
 Qu’elle a pris sur mon âme un absolu pouvoir,
-De Lucrèce, en un mot, vous la pouvez connaître...
+De Lucrèce, en un mot, vous la pouvez connaître…
 Dis vrai : je la connais, et ceux qui l’ont fait naître ;
 Son père est mon ami. Mon coeur en un moment
 Étant de ses regards charmé si puissamment,
@@ -1586,7 +1586,7 @@ Donne plus de croyance à ton valet qu’à toi !
 Je veux encore un coup montrer un coeur de père,
 Je veux encore un coup pour toi me hasarder.
 Je connais ta Lucrèce, et la vais demander ;
-Mais si de ton côté le moindre obstacle arrive...
+Mais si de ton côté le moindre obstacle arrive…
 Pour vous mieux assurer, souffrez que je vous suive.
 Demeure ici, demeure, et ne suis point mes pas :
 Je doute, je hasarde, et je ne te crois pas.
@@ -1640,7 +1640,7 @@ Reportons à Lucrèce un esprit ébranlé,
 Que l’autre à ses yeux même avait presque volé.
 Mais Sabine survient. Qu’as-tu fait de ma lettre ?
 En de si belles mains as-tu su la remettre ?
-Oui, monsieur, mais... Quoi ? Mais ! Elle a tout déchiré.
+Oui, monsieur, mais… Quoi ? Mais ! Elle a tout déchiré.
 Sans lire ? Sans rien lire. Et tu l’as enduré ?
 Ah, si vous aviez vu comme elle m’a grondée !
 Elle me va chasser, l’affaire en est vidée.
@@ -1652,7 +1652,7 @@ Comme ses déplaisirs sont déjà consolés,
 Elle vous en dira plus que vous n’en voulez.
 Elle a donc déchiré mon billet sans le lire ?
 Elle m’avait donné charge de vous le dire ;
-Mais à parler sans fard... Sait-elle son métier ?
+Mais à parler sans fard… Sait-elle son métier ?
 Elle n’en a rien fait et l’a lu tout entier.
 Je ne puis si longtemps abuser un brave homme.
 Si quelqu’un l’entend mieux, je l’irai dire à Rome.
@@ -1661,15 +1661,15 @@ M’aime-t-elle ? Non plus. Tout de bon ? Tout de bon.
 Aime-t-elle quelque autre ? Encor moins. Qu’obtiendrai-je ?
 Je ne sais. Mais enfin, dis-moi. Que vous dirai-je ?
 Vérité. Je la dis. Mais elle m’aimera ?
-Peut-être. Et quand encore ? Quand elle vous croira.
+Peut-être. Et quand encor ? Quand elle vous croira.
 Quand elle me croira ? Que ma joie est extrême !
 Quand elle vous croira, dites qu’elle vous aime.
 Je le dis déjà donc, et m’en ose vanter,
 Puisque ce cher objet n’en saurait plus douter :
-Mon père... La voici qui vient avec Clarice.
+Mon père… La voici qui vient avec Clarice.
 Il peut te dire vrai, mais ce n’est pas son vice.
 Comme tu le connais, ne précipite rien.
-Beauté qui pouvez seule et mon mal et mon bien...
+Beauté qui pouvez seule et mon mal et mon bien…
 On dirait qu’il m’en veut, et c’est moi qu’il regarde.
 Quelques regards sur toi sont tombés par mégarde.
 Voyons s’il continue. Ah ! Que loin de vos yeux
@@ -1680,7 +1680,7 @@ Il continue encor. Mais vois ce qu’il m’écrit.
 Mais écoute. Tu prends pour toi ce qu’il me dit.
 Éclaircissons-nous-en. Vous m’aimez donc, Dorante ?
 Hélas ! Que cette amour vous est indifférente !
-Depuis que vos regards m’ont mis sous votre loi...
+Depuis que vos regards m’ont mis sous votre loi…
 Crois-tu que le discours s’adresse encore à toi ?
 Je ne sais où j’en suis. Oyons la fourbe entière.
 Vu ce que nous savons, elle est un peu grossière.
@@ -1690,7 +1690,7 @@ Vous consultez ensemble ! Ah ! Quoi qu’elle vous die,
 Sur de meilleurs conseils disposez de ma vie :
 Le sien auprès de vous me serait trop fatal :
 Elle a quelque sujet de me vouloir du mal.
-Ah ! Je n’en ai que trop, et si je ne me venge...
+Ah ! Je n’en ai que trop, et si je ne me venge…
 Ce qu’elle me disait est de vrai fort étrange.
 C’est quelque invention de son esprit jaloux.
 Je le crois ; mais enfin me reconnaissez-vous ?
@@ -1698,9 +1698,9 @@ Si je vous reconnais ! Quittez ces railleries,
 Vous que j’entretins hier dedans les Tuileries,
 Que je fis aussitôt maîtresse de mon sort.
 Si je veux toutefois en croire son rapport,
-Pour une autre déjà votre âme inquiétée...
+Pour une autre déjà votre âme inquiétée…
 Pour une autre déjà je vous aurais quittée ?
-Que plutôt à vos pieds mon coeur sacrifié...
+Que plutôt à vos pieds mon coeur sacrifié…
 Bien plus, si je la crois, vous êtes marié.
 Vous me jouez, madame, et sans doute pour rire,
 Vous prenez du plaisir à m’entendre redire
@@ -1763,7 +1763,7 @@ Clarice m’a fait pièce, et je l’ai su connaître ;
 Comme en y consentant vous m’avez affligé,
 Je vous ai mise en peine, et je m’en suis vengé.
 Mais que disiez-vous hier dedans les Tuileries ?
-Clarice fut l’objet de mes galanteries...
+Clarice fut l’objet de mes galanteries…
 Veux-tu longtemps encore écouter ce moqueur ?
 Elle avait mes discours, mais vous aviez mon coeur,
 Où vos yeux faisaient naître un feu que j’ai fait taire,
