@@ -1,0 +1,15 @@
+corpus.php tcp5/* (>tcpt)	extrait le texte des vers, concatène les vers tronqués, exclut les stances et les parties chantées
+cesura/cesura.php tcpt/* "txt"			affiche les hémistiches, exclut agesilas
+
+listol.php tcpt/* (> tcpi) 		supprime les sauts de ligne et les majuscules
+cat tcpi/				concaténer les fichiers
+for Tokcsv tcpi				postag
+
+
+
+
+
+cesura/cesura.php tcp5/* "xml" (>tcpc)		césure, exclut agesilas, les stances et les parties chantées
+for Tokxml tcpc tpcpl			postag
+
+cesura/extract.php tcpl/*			affiche les motifs des hémistiches
