@@ -20,7 +20,7 @@ foreach($files as $file){
     }
 }
 $patterns = array_count_values($patterns);
-asort($patterns);
+arsort($patterns);
 //print_r($strings);
 foreach($patterns as $pattern => $count){
     echo $pattern."\n";

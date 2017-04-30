@@ -30,7 +30,7 @@ foreach ($files as $file) {
             $string.= $line->textContent . "\n";
         }
     }
-    $string = trim($string);
+    $string = trim($string)." ";
     file_put_contents("../tcpt/" . $file_name . ".txt", $string);
 }
 ?>
