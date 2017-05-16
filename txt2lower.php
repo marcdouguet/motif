@@ -27,7 +27,7 @@ foreach ($files as $file) {
 
     $text = preg_replace($array, $names[2], $text);
     $text = str_replace("\n", " ", $text); //tt réagit aux \n ?
-    file_put_contents("../tcpi/" . $file_name, $text);
+    file_put_contents("../tcpt5i/" . $file_name, $text);
 }
 
 //revoir str_replace : exact match ?

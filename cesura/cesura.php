@@ -43,7 +43,7 @@ foreach ($files as $file) {
 	$text->load($file);
 	$xp = new DOMXPath($text);
 	$xp->registerNamespace("tei", "http://www.tei-c.org/ns/1.0");
-	$verses = $xp->evaluate("//tei:body//tei:sp[not(ancestor::tei:spGrp)]/tei:l[not(@part)]");
+	$verses = $xp->evaluate("//tei:body//tei:sp[not(ancestor::tei:spGrp)]/tei:l");
     } else {
 	$text = file_get_contents($file);
 	$verses = explode("\n", $text);
@@ -52,7 +52,7 @@ foreach ($files as $file) {
 	
 	if ($mode == "xml") {
 	    $verse = $node->textContent;
-	}else{
+	} else {
 	    $verse = $node;
 	}
 	$total++;
@@ -135,27 +135,17 @@ foreach ($files as $file) {
     }
     
     if ($mode == "xml") {
-	file_put_contents("../../tcpc/" . $file_name . ".xml", $text->saveXML());
+	file_put_contents("../../tcp5c/" . $file_name . ".xml", $text->saveXML());
     }
 }
-$hemistichs_n = count($results);
-$results = array_count_values($results);
-asort($results);
-$hemistichs_n_unique = count($results);
-echo "Vers traités : $total\n";
-echo "Vers reconnus : $success\n";
+echo "Vers et parties de vers traités : $total\n";
+echo "Vers et parties de vers reconnus comme alexandrin ou hémistiche : $success\n";
 echo "Pourcentage : " . round(($success / $total) * 100, 2) . "\n";
-
-if (!$debug) {
-    print_r($results);
-    echo "Hémistiches : $hemistichs_n\n";
-    echo "Hémistiches dédoublonnés : $hemistichs_n_unique\n";
-    echo "Pourcentage de réemploi : " . round((($hemistichs_n - $hemistichs_n_unique) / $hemistichs_n) * 100, 2) . "\n";
-}
 
 //mode apprentissage
 
 if (!$learn) {
+
     return;
 }
 asort($csv);
@@ -178,7 +168,7 @@ file_put_contents("dierese.csv", trim($string));
 //voy : par défaut lié, insére un joker cons en cas de diérèse
 
 
-function clean($string, $mode) {
+function clean($string) {
 
 
     //nettoie l'hémistiche pour affichage
@@ -191,21 +181,6 @@ function clean($string, $mode) {
 	"gu",
 	"qu"
     ) , $string);
-    
-    if ($mode == "xml") {
-	return $string;
-    }
-    $string = mb_strtolower($string, "UTF-8");
-    $string = str_replace(array(
-	".",
-	",",
-	";",
-	":",
-	"?",
-	"!",
-	"…"
-    ) , "", $string);
-    $string = trim($string);
     return $string;
 }
 ?>
