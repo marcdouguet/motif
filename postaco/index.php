@@ -49,6 +49,7 @@ if(isset($_POST["tt"]) && isset($_POST["al"])){
                     <select name="tagger1">
                         <option value="Alix" selected>Alix</option>
                         <option value="Treetagger">Treetagger</option>
+                        <option value="Presto">Treetagger (Presto)</option>
                     </select>
                     <textarea name="al"><?php echo file_get_contents("al.txt");?></textarea>
                 </div>
@@ -57,6 +58,7 @@ if(isset($_POST["tt"]) && isset($_POST["al"])){
                     <select name="tagger2">
                         <option value="Alix">Alix</option>
                         <option value="Treetagger" selected>Treetagger</option>
+                        <option value="Presto">Treetagger (Presto)</option>
                     </select>
                     <textarea name="tt"><?php echo file_get_contents("tt.txt");?></textarea>
                 </div>   

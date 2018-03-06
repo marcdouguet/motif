@@ -1,7 +1,83 @@
+
+
+*XML
+	PREPARE
+
+cd /Users/marcdouguet/Sites/motif/cesura
+php cesura.php "../../tcp5/racine*.xml" 0 xml
+
+cd /Users/marcdouguet/Sites/tcp5c
+for f in racine*; do java -cp ../Alix/build/alix.jar alix.frdo.Tokxml "$f" ../tcp5cl/"$f"; done
+java -cp ../Alix/build/alix.jar alix.frdo.Tokxml boyer_aristodeme.xml ../tcp5cl/boyer_aristodeme.xml
+
+	EXTRACT
+
+cd /Users/marcdouguet/Sites/motif/cesura
+php ../motif/cesura/extract.php "racine_*" > a-racine-c.tsv
+php ../motif/cesura/extract.php "racine_*"
+
+cd /Users/marcdouguet/Sites/motif/cesura
+php extract_graph.php "../../tcp5c/racine_*" > ../../tcp5cl/a-racine-g.tsv
+
+	COMPARE diff / simil
+
+cd /Users/marcdouguet/Sites/motif
+php compare_diff.php ../../tcp5cl/a-racine-c.tsv ../../tcp5cl/corneille-c.tsv > ../../tcp5cl/a-racine-c-corneille-c-diff.tsv
+
+cd /Users/marcdouguet/Sites/motif
+php compare_reuse.php ../../tcp5cl/a-racine-c.tsv > ../../tcp5cl/a-racine-r.tsv
+
+	EVOLUTION
+
+cd /Users/marcdouguet/Sites/motif
+php evolution.php ../../tcp5cl/corpus.csv > ../../tcp5cl/a-corpus-d.tsv
+
+
+
+*TXT
+
+cd /Users/marcdouguet/Sites/tcp5
+php ../motif/xml2txt "corneillep_*"
+
+cd /Users/marcdouguet/Sites/tcp5t
+php ../motif/txt2lower.php "corneillep_*"
+
+cd /Users/marcdouguet/Sites/tcp5c
+cd /Users/marcdouguet/Sites/tcp5ti
+java -cp ../Alix/build/alix.jar alix.frdo.Tokcsv corneillep_rodogune.txt corneillep_rodogune.al.tsv
+
+cd /Users/marcdouguet/Sites/treetagger
+cmd/tree-tagger-french ../tcp5ti/corneillep_cid.txt > ../tcp5ti/corneillep_cid.tt.tsv
+pour changer le modèle, éditer cmd/tree-tagger-french
+
+
+*SSH
+
+ssh marc@obvil-dev.paris-sorbonne.fr
+cd /var/www/obvil/html/manadram/
+
+ssh douguet@obvil.lip6.fr
+cd /var/www/html/manadram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 corpus.php tcp5/* (>tcpt)	extrait le texte des vers, concatène les vers tronqués, exclut les stances et les parties chantées
 cesura/cesura.php tcpt/* "txt"			affiche les hémistiches, exclut agesilas
 
-listol.php tcpt/* (> tcpi) 		supprime les sauts de ligne et les majuscules
+listol.php tcpt/* (> tcpti) 		supprime les sauts de ligne et les majuscules
 cat tcpi/				concaténer les fichiers
 for Tokcsv tcpi				postag
 
@@ -9,7 +85,7 @@ for Tokcsv tcpi				postag
 
 
 
-cesura/cesura.php tcp5/* "xml" (>tcpc)		césure, exclut agesilas, les stances et les parties chantées
-for Tokxml tcpc tpcpl			postag
+cesura/cesura.php tcp5/* "xml" (>tcp5c)		césure, exclut agesilas, les stances et les parties chantées
+for Tokxml tcp5c tpcp5cl			postag
 
-cesura/extract.php tcpl/*			affiche les motifs des hémistiches
+cesura/extract.php tcp5cl/*			affiche les motifs des hémistiches

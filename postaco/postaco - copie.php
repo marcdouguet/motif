@@ -16,40 +16,48 @@ $tok_div = 0;
 while ($a < $count_al and $t < $count_tt) {
     
     if (mb_strtolower($al[$a][0], "UTF-8") == mb_strtolower($tt[$t][0], "UTF-8")) {
-        echo line($al, $tt, $a, $t, $i, $tag_div, $al_type, $tt_type);
+        echo line($al, $tt, $a, $t, $i, $tag_div);
         $i++;
         $a++;
         $t++;
     } elseif (strlen($al[$a][0]) > strlen($tt[$t][0])) {
         echo tok_line($al, $tt, $a, $t, $i, $tok_div);
-	$local = str_replace(array(" ","’","'","-"),"",$al[$a][0]);
-	$loctt = str_replace(array(" ","’","'","-"),"",$tt[$t][0]);
         $a++;
         $t++;
         $i++;
+	$local = str_replace(array(" ","’","'","-"),"",$al[$a][0]);
+	$loctt = str_replace(array(" ","’","'","-"),"",$tt[$t][0]);
         //al contient plusieurs token de tt : on saute les tokens de tt jusqu'au prochain token commun
         while ($t < $count_tt and $local != $loctt) {
-		$loctt .= str_replace(array(" ","’","'","-"),"",$tt[$t][0]);
-                echo "<tr class='error'><td>$i </td><td></td><td></td><td></td><td>" . $tt[$t][TT] . "</td><td>" . $tt[$t][0] . "</td><td>Tokenisation</td></tr>";
+
+                echo "<tr class='error'><td>$i </td><td></td><td>".$al[$a][0]."</td><td></td><td>" . $tt[$t][TT] . "</td><td>" . $tt[$t][0] . "</td><td>Tokenisation</td></tr>";
                 $t++;
                 $i++;
+		$loctt .= str_replace(array(" ","’","'","-"),"",$tt[$t][0]);
  
         }
     } elseif (strlen($al[$a][0]) < strlen($tt[$t][0])) {
         echo tok_line($al, $tt, $a, $t, $i, $tok_div);
-	$local = str_replace(array(" ","’","'","-"),"",$al[$a][0]);
-	$loctt = str_replace(array(" ","’","'","-"),"",$tt[$t][0]);	
         $a++;
         $t++;
         $i++;
-        while ($a < $count_al and $local != $loctt) {
-		$local .= str_replace(array(" ","’","'","-"),"",$al[$a][0]);	    
+        while ($a < $count_al) {
+            
+            if (mb_strtolower($al[$a][0], "UTF-8") == mb_strtolower($tt[$t][0], "UTF-8")) {
+                echo line($al, $tt, $a, $t, $i, $tag_div);
+                $i++;
+                $a++;
+                $t++;
+                break;
+            } else {
                 echo "<tr class='error'><td>$i</td><td></td><td>" . $al[$a][0] . "</td><td>" . $al[$a][AL] . "</td><td></td><td></td><td>Tokenisation</td></tr>";
                 $a++;
                 $i++;
+                continue;
+            }
         }
     } else {
-        echo line($al, $tt, $a, $t, $i, $tag_div, $al_type, $tt_type);
+        echo line($al, $tt, $a, $t, $i, $tag_div);
         $i++;
         $a++;
         $t++;

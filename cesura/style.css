@@ -1,0 +1,30 @@
+body{
+  font-family: "Helvetica";
+}
+textarea{
+  width: 500px;
+  height:500px;
+  display: block;
+  margin:auto;
+}
+input{
+  text-align: center;
+  width: 500px;
+  margin: 10px auto;
+  display: block;
+
+
+}
+.result{
+  width: 400px;
+  margin: auto;
+}
+.occ-list{
+  width:800px;
+  margin: auto;
+}
+a{
+  color:black;
+  text-decoration: none;
+}
+.form p{text-align: center;}
